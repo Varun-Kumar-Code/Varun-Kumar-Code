@@ -1,6 +1,6 @@
 👋 Hi, I’m Varun Kumar
   
-👀 I’m interested in technology, UI/UX design, and software development.
+😇 I’m interested in technology, UI/UX design, and software development.
   
 🌱 I’m currently learning more about java and advanced full-stack web development.
   
