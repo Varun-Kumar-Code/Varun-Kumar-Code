@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at ([Portfolio](https://varun-kumar.vercel.app/))
 
-- 📫 How to reach me ([email](varunkumar1329@gmail.com))
+- 📫 How to reach me ***varunkumar1329@gmail.com***
 
 - 📄 Know about my experiences ([Portfolio](https://varun-kumar.vercel.app/))
 
