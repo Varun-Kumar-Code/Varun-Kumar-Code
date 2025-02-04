@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ggggg" alt="ggggg" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gg" target="blank"><img src="https://img.shields.io/twitter/follow/gg?logo=twitter&style=for-the-badge" alt="(https://x.com/Varun_kumar1329)" /></a></p>
+<p align="left"> <a href="https://x.com/Varun_kumar1329" target="blank"><img src="https://img.shields.io/twitter/follow/gg?logo=twitter&style=for-the-badge" alt="X" /></a></p>
 
 - 🔭 I’m currently working on [Full Stack E-commerce Website](https://ggggg.com)
 
