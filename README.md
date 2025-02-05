@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
 
-<!-- Add a Custom Banner (Optional) -->
+<!-- Add a Custom Banner (Optional) 
 <p align="center">
   <img src="https://your-banner-url.com/banner.png" alt="Custom Banner" />
 </p>
-
+-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-R13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
