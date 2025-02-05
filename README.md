@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at my **[Portfolio](https://varun-kumar.vercel.app/)**  
 
-- 📫 How to reach me? **varunkumar1329@gmail.com**  
+- 📫 How to reach me? **[Email](varunkumar1329@gmail.com)**  
 
 - ⚡ Fun fact: **I add humor to my code—sometimes intentionally!**  
 
