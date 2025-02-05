@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Full Stack E-commerce Website](https://github.com/Varun-Kumar-R13/Full-Stack-Ecommerce-Website)
 
-- 🌱 I’m currently learning **Java** **Springboard**
+- 🌱 I’m currently learning **Java** **&** **Springboard**
 
 - 👨‍💻 All of my projects are available at ([Portfolio](https://varun-kumar.vercel.app/))
 
