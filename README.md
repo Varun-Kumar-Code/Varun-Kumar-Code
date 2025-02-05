@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggggg&label=Profile%20views&color=0e75b6&style=flat" alt="ggggg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ggggg" alt="ggggg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-R13" alt="github" /></a> </p>
 
 <p align="left"> <a href="https://x.com/Varun_kumar1329" target="blank"><img src="https://img.shields.io/twitter/follow/gg?logo=twitter&style=for-the-badge" alt="X" /></a></p>
 
-- 🔭 I’m currently working on [Full Stack E-commerce Website](https://ggggg.com)
+- 🔭 I’m currently working on [Full Stack E-commerce Website](https://github.com/Varun-Kumar-R13/Full-Stack-Ecommerce-Website)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** **Springboard**
 
 - 👨‍💻 All of my projects are available at ([Portfolio](https://varun-kumar.vercel.app/))
 
@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggggg&show_icons=true&locale=en&layout=compact" alt="ggggg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggggg&show_icons=true&locale=en" alt="ggggg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar-13&show_icons=true&locale=en" alt="github star" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggggg&" alt="ggggg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Kumar-R13&" alt="github username" /></p>
 
