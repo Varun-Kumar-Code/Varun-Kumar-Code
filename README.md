@@ -37,5 +37,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar-R13&show_icons=true&locale=en" alt="github star" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Varun-Kumar-R13&" alt="github username" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.vercel.app/api?username=Varun-Kumar-R13&" alt="github username" /></p>
 
