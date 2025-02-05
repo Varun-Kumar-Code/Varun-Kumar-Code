@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
-<h3 align="center">Passionate About Building Seamless Digital Experiences 🇮🇳</h3>
+<h3 align="center">Aspiring Full-Stack Web Developer With Passionate About Building Seamless Digital Experiences 🇮🇳</h3>
 
 <!-- Add a Custom Banner (Optional) 
 <p align="center">
