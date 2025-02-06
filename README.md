@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
-<table><tr><td style="background-color: #ff0000; color: white; padding: 10px; border-radius: 5px;">
+style="background-color: #ff0000; color: white; padding: 10px; border-radius: 5px;">
     <h3 align="center">IT Student @ HITS</h3>
-</td></tr></table>
 
 <!-- Add a Custom Banner (Optional) 
 <p align="center">
