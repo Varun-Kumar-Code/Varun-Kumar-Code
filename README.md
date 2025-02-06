@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
 
-<h3 align="center" style="background-color: #ff0000; color: white; padding: 10px; border-radius: 5px;">IT Student @ HITS</h3>
+![IT Student @ HITS](https://img.shields.io/badge/IT_Student-HITS-red?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- Add a Custom Banner (Optional) 
 <p align="center">
