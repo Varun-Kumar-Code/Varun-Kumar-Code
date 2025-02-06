@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
-<h3 align="center"  style="background-color: #3c096c !important; color: white; padding: 10px; border-radius: 5px;">
+<p align="center"  style="background-color: #3c096c !important; color: white; padding: 10px; border-radius: 5px;">
     IT Student @ HITS
-</h3>
+</p>
 
 <!-- Add a Custom Banner (Optional) 
 <p align="center">
