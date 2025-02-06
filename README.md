@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
-<h3 align="center" style="background-color: #3c096c; color: white; padding: 10px; border-radius: 5px;">
+<h3 align="cente" style="background-color: #3c096c; color: white; padding: 10px; border-radius: 5px;">
     IT Student @ HITS
 </h3>
 
 <!-- Add a Custom Banner (Optional) 
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Custom Banner" />
+  <img src="https://my-banner-url.com/banner.png" alt="Custom Banner" />
 </p>
 -->
 > I'm passionate about technology, with expertise in UI/UX design, Python, Java, and web development. Driven by a fascination with innovation, I’m eager to shape the future as a developer and contribute to groundbreaking projects.
