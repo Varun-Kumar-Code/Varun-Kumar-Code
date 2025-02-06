@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
+
 <h3 align="center" style="background-color: #ff0000; color: white; padding: 10px; border-radius: 5px;">IT Student @ HITS</h3>
 
 <!-- Add a Custom Banner (Optional) 
