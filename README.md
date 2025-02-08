@@ -9,7 +9,7 @@
 -->
 > I'm passionate about technology, with expertise in UI/UX design, Python, Java, and web development. Driven by a fascination with innovation, I’m eager to shape the future as a developer and contribute to groundbreaking projects.
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-R13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-R13&label=Profile%20views&color=0e75b6&" alt="Profile views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-R13&margin-w=15" alt="GitHub Trophies" />
   </a>
