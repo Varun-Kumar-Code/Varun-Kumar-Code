@@ -1,6 +1,8 @@
 <h1 align="center">👋Hi, I'm Varun Kumar <!--<img src="Imgs/5UKD.gif" alt="GIF" width="30">--></h1>
 
-![IT Student @ HITS](https://img.shields.io/badge/IT_Student-HITS-red?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://varun-kumar.vercel.app/">
+<img src="https://img.shields.io/badge/IT_Student-HITS-red?style=for-the-badge&logo=github&logoColor=white">
+<a>
 
 <!-- Add a Custom Banner (Optional) 
 <p align="center">
