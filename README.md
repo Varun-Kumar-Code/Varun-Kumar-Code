@@ -85,15 +85,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar-R13&show_icons=true&theme=dark&count_private=true&hide=issues" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar-Code&show_icons=true&theme=dark&count_private=true&hide=issues" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Varun-Kumar-R13&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Varun-Kumar-Code&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varun-Kumar-R13&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varun-Kumar-Code&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
@@ -109,7 +109,7 @@
 ## 💡 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun-Kumar-R13&theme=react-dark" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun-Kumar-Code&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -124,7 +124,7 @@
 
 ## 🚀 Support Me
 
-If you like my work, consider giving me a ⭐ on [GitHub](https://github.com/Varun-Kumar-R13) and following me for more awesome projects!
+If you like my work, consider giving me a ⭐ on [GitHub](https://github.com/Varun-Kumar-Code) and following me for more awesome projects!
 
 ---
 
