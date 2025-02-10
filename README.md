@@ -12,7 +12,7 @@
 > I'm passionate about technology, with expertise in UI/UX design, Python, Java, and web development. Driven by a fascination with innovation, I’m eager to shape the future as a developer and contribute to groundbreaking projects.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile+Views&color=blue" alt="Profile Views" />
- <!--<img src="https://visitor-badge.glitch.me/badge?page_id=Varun-Kumar-Code.visitor-badge" alt="Profile Views" />
+ <!--
     <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile+Views&color=blue" alt="Profile Views" />
   -->
 
