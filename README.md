@@ -11,7 +11,7 @@
 -->
 > I'm passionate about technology, with expertise in UI/UX design, Python, Java, and web development. Driven by a fascination with innovation, I’m eager to shape the future as a developer and contribute to groundbreaking projects.
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile+Views&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile+Views&color=blue" alt="Profile Views" />
   <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-Code&margin-w=15" alt="GitHub Trophies" />
   </a>
