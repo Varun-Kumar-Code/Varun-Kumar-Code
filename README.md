@@ -11,9 +11,9 @@
 -->
 > I'm passionate about technology, with expertise in UI/UX design, Python, Java, and web development. Driven by a fascination with innovation, I’m eager to shape the future as a developer and contribute to groundbreaking projects.
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-R13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-R13&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-Code&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on a **Full-Stack E-commerce Website**  
-  [🔗 GitHub Repo](https://github.com/Varun-Kumar-R13/Full-Stack-Ecommerce-Website)
+  [🔗 GitHub Repo](https://github.com/Varun-Kumar-Code/Full-Stack-Ecommerce-Website)
 
 - 🌱 I’m currently learning **Java & Spring Boot**  
 
@@ -37,13 +37,13 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="https://x.com/Varun_kumar1329" target="blank">
+<a href="https://x.com/VarunKOfficial" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/varun-kumar13/" target="blank">
+<a href="https://www.linkedin.com/in/Varun-Kumar-in/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/varun_official_13/" target="blank">
+<a href="https://www.instagram.com/itz_varun_official/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 </p>
