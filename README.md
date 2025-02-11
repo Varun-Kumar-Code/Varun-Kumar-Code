@@ -142,10 +142,9 @@ If you like my work, consider giving me a ⭐ on [GitHub](https://github.com/Var
     width: 600px; /* Adjust as needed */
     height: auto; /* Maintain aspect ratio */
   }
-  @media(max-width="768px"){
-    .trophy-image{
-      width: 600px; /* Adjust as needed */
-      height: auto; /* Maintain aspect ratio */
+  @media (max-width: 600px) {
+    .trophy-image {
+      max-width: 100%; /* Full width on mobile */
     }
   }
 </style>
