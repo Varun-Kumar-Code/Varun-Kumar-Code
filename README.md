@@ -137,16 +137,5 @@ If you like my work, consider giving me a ⭐ on [GitHub](https://github.com/Var
 
 ---
 
-<style>
-  .trophy-image {
-    width: 600px; /* Adjust as needed */
-    height: auto; /* Maintain aspect ratio */
-  }
-  @media(max-width="768px"){
-    .trophy-image{
-      width: 600px; /* Adjust as needed */
-      height: auto; /* Maintain aspect ratio */
-    }
-  }
-</style>
+
 
