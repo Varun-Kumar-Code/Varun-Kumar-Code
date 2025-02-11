@@ -25,7 +25,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on a **Full-Stack E-commerce Website**  
-  [🔗 GitHub Repo](https://github.com/Varun-Kumar-Code/Full-Stack-Ecommerce-Website)
+  [🔗 GitHub Repo](https://github.com/Varun-Kumar-Code/Full-Stack-E-commerce-Website)
 
 - 🌱 I’m currently learning **Java & Spring Boot**  
 
