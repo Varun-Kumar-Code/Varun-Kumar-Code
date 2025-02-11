@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile+Views&color=blue" alt="Profile Views" />
   -->
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-Code&margin-w=15" alt="GitHub Trophies" class=""" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-Code&margin-w=15" alt="GitHub Trophies" class="trophy-image"" />
   </a>
 </p>
 
@@ -137,5 +137,16 @@ If you like my work, consider giving me a ⭐ on [GitHub](https://github.com/Var
 
 ---
 
-
+<style>
+  .trophy-image {
+    width: 600px; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  @media(max-width="768px"){
+    .trophy-image{
+      width: 600px; /* Adjust as needed */
+      height: auto; /* Maintain aspect ratio */
+    }
+  }
+</style>
 
