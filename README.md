@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile+Views&color=blue" alt="Profile Views" />
   -->
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-Code&margin-w=15" alt="GitHub Trophies" class="trophy-image" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-Code&margin-w=15" alt="GitHub Trophies" style="width: 100%; max-width: 600px; height: auto;" />
   </a>
 </p>
 
