@@ -139,9 +139,12 @@ If you like my work, consider giving me a ⭐ on [GitHub](https://github.com/Var
 
 <style>
   .trophy-image {
-    width: 600px; /* Adjust as needed */
-    height: auto; /* Maintain aspect ratio */
+    width: 100%;
+    max-width: 600px;
+    height: auto;
   }
+
+  /* Adjust size for smaller screens */
   @media (max-width: 600px) {
     .trophy-image {
       max-width: 100%; /* Full width on mobile */
