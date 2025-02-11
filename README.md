@@ -17,7 +17,7 @@
   -->
 
  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-Code&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-Code&margin-w=15" alt="GitHub Trophies" class="trophy-image />
   </a>
 </p>
 
@@ -137,4 +137,11 @@
 If you like my work, consider giving me a ⭐ on [GitHub](https://github.com/Varun-Kumar-Code) and following me for more awesome projects!
 
 ---
+
+<style>
+  .trophy-image {
+    width: 600px; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+</style>
 
