@@ -10,9 +10,11 @@
 </p>
 -->
 > I'm passionate about technology, with expertise in UI/UX design, Python, Java, and web development. Driven by a fascination with innovation, I’m eager to shape the future as a developer and contribute to groundbreaking projects.
-
+  <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile+Views&color=blue" alt="Profile Views" />
+  <br>
+  <br>
  <!--
     <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile+Views&color=blue" alt="Profile Views" />
   -->
