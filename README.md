@@ -115,6 +115,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Varun-Kumar-Code" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varun-Kumar-Code&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
