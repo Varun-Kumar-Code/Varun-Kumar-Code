@@ -13,7 +13,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile+Views&color=blue" alt="Profile Views" />
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
  <!--
     <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile+Views&color=blue" alt="Profile Views" />
   -->
