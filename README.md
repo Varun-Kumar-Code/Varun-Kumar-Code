@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi, I'm Varun Kumar <img src="Imgs/5UKD.gif" alt="GIF Intro" width="40" height="40"> <!--<img src="https://Imgs/5UKD.gif" alt="GIF Intro" width="30">--></h1>
+<h1 align="center">👋Hi, I'm Varun Kumar <img src="Imgs/5UKD.gif" alt="GIF" width="40" height="40"> <!--<img src="https://Imgs/5UKD.gif" alt="GIF Intro" width="30">--></h1>
 
 <a href="https://varun-kumar.vercel.app/">
 <img src="https://img.shields.io/badge/IT_Student-HITS-red?style=for-the-badge&logo=github&logoColor=white">
