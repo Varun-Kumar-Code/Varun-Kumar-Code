@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Varun-Kumar-Code&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Varun-Kumar-Code&theme=dar" alt="GitHub Streak" />
 </p>
 
 <p align="center">
