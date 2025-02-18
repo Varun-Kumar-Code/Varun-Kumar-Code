@@ -107,7 +107,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar-Code&show_icons=true&theme=dark&count_private=true&hide=issues" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar-Code&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 
 <p align="center">
