@@ -5,10 +5,11 @@
 <a>
 
 <!-- Add a Custom Banner (Optional) 
-<p align="center">
-  <img src="https://my-banner-url.com/banner.png" alt="Custom Banner" />
-</p>
+  <p align="center">
+    <img src="https://my-banner-url.com/banner.png" alt="Custom Banner" />
+  </p>
 -->
+
 > I'm passionate about technology, with expertise in UI/UX design, Python, Java, and web development. Driven by a fascination with innovation, I’m eager to shape the future as a developer and contribute to groundbreaking projects.
   <br>
 <p align="center">
