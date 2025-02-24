@@ -132,7 +132,7 @@
 ## 💡 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun-Kumar-Code&theme=react-dark" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun-Kumar-Code&theme=dark" alt="GitHub Contribution Graph" />
 </p>
 
 ---
