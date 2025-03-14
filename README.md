@@ -10,6 +10,10 @@
   </p>
 -->
 
+<p align="center">
+  <img src="Imgs/ Profile Banner.png" alt="Custom Banner" />
+</p>
+
 > I'm passionate about technology, with expertise in UI/UX design, Python, Java, and web development. Driven by a fascination with innovation, I’m eager to shape the future as a developer and contribute to groundbreaking projects.
   <br>
 <p align="center">
