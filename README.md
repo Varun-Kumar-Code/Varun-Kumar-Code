@@ -6,7 +6,7 @@
 
 <!-- Add a Custom Banner (Optional) 
   <p align="center">
-    <img src="Imgs/ Profile Banner.png" alt="Custom Banner" />
+    <img src="https://my-banner-url.com/banner.png" alt="Custom Banner" />
   </p>
 -->
 
