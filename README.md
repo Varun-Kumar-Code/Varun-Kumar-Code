@@ -49,17 +49,17 @@
 
 <p align="left">
 <a href="https://x.com/VarunKOfficial" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
+  <img align="center" src="Imgs/Twitter X Icon.png" alt="X" height="30" width="40" /> <!--https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg-->
 </a>
 <a href="https://www.linkedin.com/in/Varun-Kumar-in/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img align="center" src="Imgs/Linkedin Icon Circle Form.png" alt="LinkedIn" height="30" width="40" /> <!--https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg-->
 <!--
   https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
   https://icongr.am/devicon/linkedin-original.svg?size=128&color=000000"
 -->
 </a>
 <a href="https://www.instagram.com/itz_varun_official/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <img align="center" src="Imgs/Instagram Rounded.png" alt="Instagram" height="30" width="40" /> <!--https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg-->
 </a>
 </p>
 
