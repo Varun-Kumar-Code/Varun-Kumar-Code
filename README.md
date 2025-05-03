@@ -89,7 +89,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.brandfetch.io/id1I4_FAsY/w/400/h/355/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Firebase" width="40" height="40"/>
 </p>
 
 ### **Tools & Platforms**
