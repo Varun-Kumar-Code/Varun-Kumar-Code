@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi, I'm Varun Kumar <img src="Imgs/5UKD.gif" alt="GIF" width="40" height="40"> <!--<img src="https://Imgs/5UKD.gif" alt="GIF Intro" width="30">--></h1>
 
-<a href="https://varun-kumar.vercel.app/">
+<a href="https://varun-kumar.is-a.dev/">
 <img src="https://img.shields.io/badge/IT_Student-HITS-red?style=for-the-badge&logo=github&logoColor=white">
 <a>
 
@@ -11,7 +11,7 @@
 -->
 
 <p align="center">
-  <img src="Imgs/ Profile Banner.png" alt="Custom Banner" />
+  <img src="Imgs/ Profile Banner.png" alt="Varun Kumar R Profile Banner />
 </p>
 
 > I'm passionate about technology, with expertise in UI/UX design, Python, Java, and web development. Driven by a fascination with innovation, I’m eager to shape the future as a developer and contribute to groundbreaking projects.
@@ -37,9 +37,9 @@
 
 - 🌱 I’m currently learning **Java & Spring Boot**  
 
-- 👨‍💻 All of my projects are available at my **[Portfolio](https://varun-kumar.vercel.app/)**  
+- 👨‍💻 All of my projects are available at my **[Portfolio](https://varun-kumar.is-a.dev/)**  
 
-- 📫 How to reach me? **[Email](mailto:varunkumar1329@gmail.com)**
+- 📫 How to reach me? **[Email](mailto:enquiretovarun@gmail.com)**
 
 - ⚡ Fun fact: **I add humor to my code—sometimes intentionally!**  
 
