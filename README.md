@@ -14,6 +14,11 @@
   <img src="Imgs/ Profile Banner.png" alt="Varun Kumar R Profile Banner />
 </p>
 
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 > I'm passionate about technology, with expertise in UI/UX design, Python, Java, and web development. Driven by a fascination with innovation, I’m eager to shape the future as a developer and contribute to groundbreaking projects.
   <br>
 <p align="center">
@@ -22,15 +27,45 @@
   <br>
   <!--
     <img src="https://komarev.com/ghpvc/?username=Varun-Kumar-Code&label=Profile+Views&color=blue" alt="Profile Views" />
+    Trophy:
+    <a href="#">
+      <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-Code&margin-w=15" alt="GitHub Trophies" style="width: 100%; max-width: 800px; height: auto;" />
+    </a>
   -->
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=Varun-Kumar-Code&margin-w=15" alt="GitHub Trophies" style="width: 100%; max-width: 800px; height: auto;" />
+
+  <!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Varun-Kumar-Code">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Varun-Kumar-Code&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Varun-Kumar-Code&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Varun-Kumar-Code&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
   </a>
+</p>
+<!--<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/Varun-Kumar-Code/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p> -->
+<br />
+  
 </p>
 
 ---
 
 ## 🚀 About Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Imgs/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Imgs/Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Imgs/Skills_Animation_White.gif">
+</picture>
+<br />
 
 - 🔭 I’m currently working on a **Full-Stack E-commerce Website**  
   [🔗 GitHub Repo](https://github.com/Varun-Kumar-Code/Full-Stack-E-commerce-Website)
