@@ -189,3 +189,8 @@
 If you like my work, consider giving me a ⭐ on [GitHub](https://github.com/Varun-Kumar-Code) and following me for more awesome projects!
 
 ---
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
