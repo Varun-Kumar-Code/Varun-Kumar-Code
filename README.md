@@ -78,7 +78,13 @@
 
 - ⚡ Fun fact: **I add humor to my code—sometimes intentionally!**  
 
----
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## 🔗 Connect with Me
 
@@ -109,6 +115,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://logowik.com/content/uploads/images/react7473.logowik.com.webp" alt="React JS" width="40" height="40"/>
 </p>
 
 ### **Backend**
@@ -146,16 +153,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar-Code&show_icons=true&theme=dark" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Varun-Kumar-Code&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Varun-Kumar-Code&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varun-Kumar-Code&layout=compact&theme=dark" alt="Top Languages" />
+<p align="right">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Varun-Kumar-Code&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
