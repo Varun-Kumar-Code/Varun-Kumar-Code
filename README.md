@@ -109,7 +109,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,figma" />
   <img src="Imgs/Behance.png" width="48"/>
-  <img src="Imgs/Canva.png" width="48"/>
 </p>
 
 ---
@@ -165,19 +164,17 @@ If you like my work, consider giving me a ⭐ on [GitHub](https://github.com/Var
 </h2>
 
 <p align="center">
-<a href="https://x.com/VarunKOfficial" target="blank">
-  <img align="center" src="Imgs/Twitter X Icon.png" alt="X" height="60" width="80" /> <!--https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg-->
-</a>
-<a href="https://www.linkedin.com/in/Varun-Kumar-in/" target="blank">
-  <img align="center" src="Imgs/Linkedin Icon Circle Form.png" alt="LinkedIn" height="60" width="80" /> <!--https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg-->
-<!--
-  https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-  https://icongr.am/devicon/linkedin-original.svg?size=128&color=000000"
--->
-</a>
-<a href="https://www.instagram.com/itz_varun_official/" target="blank">
-  <img align="center" src="Imgs/Instagram Rounded.png" alt="Instagram" height="60" width="80" /> <!--https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg-->
-</a>
+  <a href="https://x.com/VarunKOfficial" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="34"/>
+  </a>
+  &nbsp;&nbsp&nbsp;
+  <a href="https://www.linkedin.com/in/Varun-Kumar-in/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
+  </a>
+  &nbsp;&nbsp&nbsp;
+  <a href="https://www.instagram.com/itz_varun_official/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="34"/>
+  </a>
 </p>
 
 <!--Footer--> 
