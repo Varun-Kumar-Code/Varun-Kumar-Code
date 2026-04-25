@@ -179,5 +179,5 @@ If you like my work, consider giving me a ⭐ on [GitHub](https://github.com/Var
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="25850"/>
 </p>
