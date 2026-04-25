@@ -90,62 +90,26 @@
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
+### 🚀 Frontend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Imgs/TypeScript.png" alt="TypeScript" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Imgs/React Purple.png" alt="React JS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
 
-### **Backend**
+### ⚙️ Backend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Imgs/Node.js.png" alt="Node js" height="40"/>
-  
+  <img src="https://skillicons.dev/icons?i=java,python,django,nodejs" />
 </p>
 
-### **Databases & Cloud**
+### ☁️ Database & Cloud
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Imgs/Firebase.png" alt="Firebase" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Imgs/Azure.png" alt="Microsoft Azure" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Imgs/Google Cloud.png" alt="Google Cloud" height="40"/>
-  
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,azure,gcp" />
 </p>
 
-### **Tools & Platforms**
+### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Imgs/Docker.png" alt="Docker" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.brandfetch.io/idZAyF9rlg/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Github" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.brandfetch.io/idBzZU5Uno/w/200/h/200/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Vercel" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Imgs/Canva.png" alt="Canva" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Imgs/Behance.png" alt="Behance" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,figma" />
+  <img src="Imgs/Behance.png" width="48"/>
+  <img src="Imgs/Canva.png" width="48"/>
 </p>
 
 ---
